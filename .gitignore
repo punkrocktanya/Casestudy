@@ -1,0 +1,17 @@
+.local_deps/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+/tmp/
+/deliverables/
+/LR1865SZ*.xlsx
+/outputs/battery_cleaning/*.xlsx
+/outputs/battery_cleaning/*_clean.parquet
+/outputs/gold/interval_diagnostics_*.parquet
+/outputs/validation_baseline*/
+**/.DS_Store
